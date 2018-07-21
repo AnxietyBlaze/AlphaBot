@@ -12,4 +12,4 @@ A Bot For Discord. Still Under Development... has few basics Commands inserted--
 
 I Use Atom.io For Coding & Command Prompt For Hosting The Bot.
 
-Contact Me On Discord If You Need Tthe Password --- Check My Profile For Username.
+Contact Me On Discord If You Need The Password --- Check My Profile For Username.
